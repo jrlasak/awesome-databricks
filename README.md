@@ -92,6 +92,8 @@ Creators covering data engineering broadly, with substantial Databricks content 
 | Prashant Kumar Pandey (ScholarNest)      | [LinkedIn](https://www.linkedin.com/in/prashant-kumar-pandey), [YouTube](https://www.youtube.com/@scholarnest)      | 42K LI, 83K YT   | Spark performance tuning on Databricks, PySpark, certification prep                   |
 | Mr. K Talks Tech                         | [LinkedIn](https://www.linkedin.com/in/mrk-talkstech/), [YouTube](https://www.youtube.com/@mr.ktalkstech)           | 9K LI, 36K YT    | Azure Databricks end-to-end project tutorials, ETL pipelines                          |
 | Youssef Mrini                            | [LinkedIn](https://www.linkedin.com/in/youssefmrini/)                                                               | 25K LI            | Solutions Architect, Developer Advocate. Co-host of NextGenLakehouse Podcast           |
+| Josue Bogran                             | [LinkedIn](https://www.linkedin.com/in/josuebogran/), [YouTube](https://www.youtube.com/@JosueBogranChannel)         | 28K LI, 1K YT     | VP of Data+AI, Databricks MVP. Interviews Databricks PMs, Unity Catalog demos, AI agents |
+| Chris Gambill (Gambill Data Engineering) | [LinkedIn](https://www.linkedin.com/in/databasemanagement/), [YouTube](https://www.youtube.com/@GambillDataEngineering) | 12K YT          | DE strategy, career roadmaps, practical Spark/Databricks tutorials. 496 videos           |
 
 ---
 
