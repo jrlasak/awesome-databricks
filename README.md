@@ -96,6 +96,7 @@ Creators covering data engineering broadly, with substantial Databricks content 
 | Youssef Mrini                            | [LinkedIn](https://www.linkedin.com/in/youssefmrini/)                                                                   | 25K LI           | Solutions Architect, Developer Advocate. Co-host of NextGenLakehouse Podcast             |
 | Josue Bogran                             | [LinkedIn](https://www.linkedin.com/in/josuebogran/), [YouTube](https://www.youtube.com/@JosueBogranChannel)            | 28K LI, 1K YT    | VP of Data+AI, Databricks MVP. Interviews Databricks PMs, Unity Catalog demos, AI agents |
 | Chris Gambill (Gambill Data Engineering) | [LinkedIn](https://www.linkedin.com/in/databasemanagement/), [YouTube](https://www.youtube.com/@GambillDataEngineering) | 12K YT           | DE strategy, career roadmaps, practical Spark/Databricks tutorials. 496 videos           |
+| Yordan Ivanov (Data Gibberish)           | [LinkedIn](https://www.linkedin.com/in/ivanovyordan/), [Substack](https://substack.com/@ivanovyordan)                  | 7K LI, 7.5K Substack | Stakeholder management, career growth, leadership for data engineers. Head of Data at Dext |
 
 ---
 
