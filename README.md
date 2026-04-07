@@ -66,6 +66,7 @@ Creators whose content is primarily about Databricks. Minimum 5K followers, acti
 | Mariusz Kujawski                     | [LinkedIn](https://www.linkedin.com/in/mariusz-kujawski-de)                                                        | 10K LI                 | Cloud Data Architect. Databricks Apps, CI/CD, Delta Lake maintenance, unit testing. Conference speaker                          |
 | Emil Kaminski                        | [YouTube](https://www.youtube.com/@DatabricksPro)                                                                  | 12K YT                 | Enterprise Data & AI Architect. Databricks tutorials, certification prep, Warsaw meetups                                        |
 | Ramesh Retnasamy                     | [LinkedIn](https://www.linkedin.com/in/ramesh-retnasamy/), [Udemy](https://www.udemy.com/user/ramesh-retnasamy-4/) | 200K+ students         | Databricks Certified DE Associate exam prep (bestselling course)                                                                |
+| Hubert Dudek (SunnyData)             | [LinkedIn](https://www.linkedin.com/in/hubertdudek/), [Blog](https://databrickster.medium.com/)                   | 34K LI                 | Databricks MVP, Advisor to Databricks Product Board. Weekly Databricks news, DABS, production best practices                    |
 | Bartosz Gajda                        | [LinkedIn](https://www.linkedin.com/in/bartosz-gajda/)                                                             | 6K LI                  | Databricks Champion, Solutions Architect. Unity Catalog, Lakeflow, Delta Sharing, platform migrations at enterprise scale       |
 | Raman Gupta                          | [LinkedIn](https://www.linkedin.com/in/raman-gupta-data-professional)                                              | 2K LI                  | Databricks Champion. Lead Data Architect, Unity Catalog, SQL Warehouses, Databricks Apps                                        |
 
@@ -221,6 +222,7 @@ Student counts and ratings as of April 2026.
 - [Spark By Examples](https://sparkbyexamples.com/) - PySpark, Spark SQL, Delta Lake code examples. Comprehensive reference.
 - [waitingforcode](https://www.waitingforcode.com/) - Deep Spark/Databricks technical posts. By Bartosz Konieczny.
 - [Advancing Analytics Blog](https://www.advancinganalytics.co.uk/blog) - Databricks deep dives, Azure analytics. By Simon Whiteley.
+- [Databrickster (SunnyData)](https://databrickster.medium.com/) - Weekly Databricks news, DABS, production anti-patterns, deduplication strategies. By Hubert Dudek.
 - [Start Data Engineering](https://www.startdataengineering.com/) - DE tutorials, pipeline patterns. By Joseph Machado.
 - [Simon Spati's Blog](https://www.ssp.sh/) - DE patterns, tools, curated resources.
 - [Data Engineering Vault](https://www.ssp.sh/brain/data-engineering/) - Curated knowledge base of DE concepts and tools. By Simon Spati.
