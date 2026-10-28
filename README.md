@@ -295,6 +295,8 @@ The open-source projects that power the Databricks platform.
 - [unitycatalog](https://github.com/unitycatalog/unitycatalog) - Open-source Unity Catalog. Multi-modal data & AI catalog supporting Delta, Iceberg, Hudi. 3.3K stars.
 - [delta-rs](https://github.com/delta-io/delta-rs) - Read/write Delta tables from Python without Spark. Useful for lightweight scripts and CI/CD. 3.2K stars.
 
+- [DBU Waste Finder](https://github.com/markatdataandbeyond/dbu-waste-finder) - Free read-only notebook and MCP server that finds wasted Databricks DBUs from system tables (idle warehouses, jobs on all-purpose compute, Delta OPTIMIZE/VACUUM) and proposes Asset Bundle diffs / SQL. By Data and Beyond.
+
 ### Data Quality
 
 - [great_expectations](https://github.com/great-expectations/great_expectations) - Data quality framework with 50+ built-in checks. Supports Spark/Databricks. 11.3K stars.
