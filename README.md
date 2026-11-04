@@ -172,6 +172,7 @@ Student counts and ratings as of April 2026.
 - [Databricks Academy Practice Exams](https://customer-academy.databricks.com/learn) - Official practice questions for certification prep. Free for Databricks customers.
 - [CertPrepNow](https://certprepnow.com) - Free practice exams for all 6 Databricks certifications with detailed explanations.
 - [ExamCrest](https://examcrest.com/exam/databricks-dea/free-questions) - Practice exams for Data Engineer Associate and Professional with free sample questions and per-option explanations; full mock exams are paid. By ExamCrest.
+- [PySpark.in Data Engineer Associate Practice](https://pyspark.in/certification/CDE-2025/) - Free timed mock (Google sign-in) plus runnable PySpark and SQL exercises mapped to the exam sections; the full-length mock is paid. By PySpark.in.
 
 ### Books
 
